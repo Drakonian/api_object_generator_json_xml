@@ -1,0 +1,489 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="API Object Generator">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 4271454618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 1799079160 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Access Token URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Access Token URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 2722158932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auth Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Auth Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 198601236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auth. URL Parms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Auth. URL Parms - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 2338191276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorization URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Authorization URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 2849319772 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Base ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Base ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 3222865983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Base Prefix</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Base Prefix - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 652819368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Client ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 34440237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Format</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Data Format - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 1100028226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generation Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Generation Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 199260834 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Grant Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Grant Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 1379843859 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Http Request Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Http Request Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 3544158917 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Login</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Login - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 618784563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Redirect URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Redirect URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 2265428868 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Content Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Request Content Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 3989545019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Request Data - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 3788920014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Request URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 1716707450 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Response Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 851011557 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Response Data - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 558802757 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Root Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Root Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4271454618 - Field 593885934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scope</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AOG API Header - Field Scope - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4171227033 - NamedType 1803812000" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request failed with HTTP Code:: %1 Request Body:: %2</source>
+          <note from="Developer" annotates="general" priority="2">%1 = HttpCode, %2 = RequestBody</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AOG API Mgt - NamedType RequestErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4171227033 - NamedType 2185186290" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unsuportted content to send.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AOG API Mgt - NamedType UnsupportedContentToSendErr</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Object Generator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 1246219133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorization</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Authorization - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 3544158917 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Login field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Login - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 2575460289 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the password.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Password - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 2575460289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Password - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 3480628236 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bearer token.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Bearer Token - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 3480628236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bearer Token</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Bearer Token - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 4010436268 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OAuth 1.0</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control OAuth 1.0 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 585266498 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Access Token URL field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Access Token URL2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 2060080694 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Authorization URL field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Authorization URL2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 2504478866 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Client ID field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Client ID2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 2507237879 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the client secret.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Client Secret2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 2507237879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Secret</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Client Secret2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 1419599736 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Grant Type field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Grant Type2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 2060230005 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Redirect URL field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Redirect URL2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 3704635623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OAuth 2.0</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control OAuth20 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 1799079160 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Access Token URL field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Access Token URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 2338191276 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Authorization URL field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Authorization URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 652819368 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Client ID field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Client ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 2529110793 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the client secret.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Client Secret - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 2529110793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Secret</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Client Secret - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 199260834 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Grant Type field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Grant Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 618784563 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Redirect URL field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Redirect URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 593885934 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Scope field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Scope - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 2722158932 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Auth Type field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Auth Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 2849319772 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Base ID field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Base ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 3222865983 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Base Prefix field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Base Prefix - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 34440237 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Data Format field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Data Format - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 1100028226 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Generation Type" field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Generation Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 558802757 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Root Path field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Root Path - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 1828139704 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Raw Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Raw Data - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 1253479696 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Request Data field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control RawData - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 3351914939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 1379843859 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Http Request Type field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Http Request Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 2265428868 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Request Content Type field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Request Content Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 3989545019 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Request Data field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Request Data - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 3989545019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Request Data - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 3788920014 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Request URL field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Request URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 2314340260 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Respone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Respone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 1716707450 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Response Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Response Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Control 851011557 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Response Data field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Control Response Data - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Action 4290158799 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generate Objects</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Action GenerateObjects - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Action 4290158799 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generate Objects</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Action GenerateObjects - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Action 2452499351 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validate Root Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Action ValidateRootPath - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2701710073 - Action 2452499351 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validate Root Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator - Action ValidateRootPath - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3001855855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Object Generator List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3001855855 - NamedType 3249906517" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is an example of generating objects for the %1 API.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator List - NamedType APIDescLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 3001855855 - Control 2722158932 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Auth Type field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator List - Control Auth Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3001855855 - Control 3222865983 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Base Suffix field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator List - Control Base Prefix - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3001855855 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator List - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3001855855 - Control 34440237 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Data Format field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator List - Control Data Format - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3001855855 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator List - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3001855855 - Control 1100028226 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Generation Type" field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator List - Control Generation Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3001855855 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AOG API Object Generator List - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Enum 1197974187 - EnumValue 3227672870 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Basic</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AOG Auth Type - EnumValue Basic - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1197974187 - EnumValue 3480628236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bearer Token</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AOG Auth Type - EnumValue Bearer Token - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1197974187 - EnumValue 2147958139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Auth</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AOG Auth Type - EnumValue No Auth - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1197974187 - EnumValue 4010436268 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OAuth 1.0</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AOG Auth Type - EnumValue OAuth 1.0 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1197974187 - EnumValue 3075927989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OAuth 2.0</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AOG Auth Type - EnumValue OAuth 2.0 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1950890134 - EnumValue 2264048100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>JSON</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AOG Data Format - EnumValue JSON - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1950890134 - EnumValue 1591033283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AOG Data Format - EnumValue XML - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3278617417 - EnumValue 3526110884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AOG Generation Type - EnumValue API - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3278617417 - EnumValue 1828139704 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Raw Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AOG Generation Type - EnumValue Raw Data - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 430372209 - EnumValue 1090384498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorization Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AOG Grant Type - EnumValue Authorization Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 430372209 - EnumValue 2349748771 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Credentials</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AOG Grant Type - EnumValue Client Credentials - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 2833373937 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Object Generator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet AOG Object Generator - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
